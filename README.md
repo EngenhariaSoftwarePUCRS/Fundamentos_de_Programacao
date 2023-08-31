@@ -1,2 +1,3 @@
-# Fundamentos_de_Programacao
-Fundamentos de Programação | Leonardo Rodriguez Heredia | 1º | 2022/1 | 9.8 | 4611C-06 | 30
+| Disciplina | Professor | Semestre Previsto | Ano Cursada | Grau Obtido | CodiCred | Carga Horário |
+| --- | --- | --- | --- | --- | --- | --- |
+| Fundamentos de Programação | Leonardo Rodriguez Heredia | 1º | 2022/1 | 9.8 | 4611C-06 | 30 |
